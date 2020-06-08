@@ -1,4 +1,4 @@
-# IoT_arduino_network
+## Easily Deployable Ad-hoc Network in case of disasters
 
 Files walkthrough:
 1. Access_point_upload_in_ESP32_  : This code has to be uploaded in the wifi module (ESP32 development board)
